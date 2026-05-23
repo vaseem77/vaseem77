@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vaseem77
 - 👀 I’m interested in software Technologies
 - 🌱 I’m currently learning cloud computing
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on devops & cloud projects
+- 
 - 📫 How to reach me ...
 
 <!---
